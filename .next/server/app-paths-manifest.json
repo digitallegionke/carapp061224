@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/about-us/page": "app/about-us/page.js",
+  "/cars/[id]/page": "app/cars/[id]/page.js",
+  "/browse-cars/page": "app/browse-cars/page.js",
+  "/page": "app/page.js",
+  "/sell-your-car/page": "app/sell-your-car/page.js",
+  "/sign-in/page": "app/sign-in/page.js"
+}
